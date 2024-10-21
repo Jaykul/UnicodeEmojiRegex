@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <ItemGroup>
-        <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="5.0.1" />
+        <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="8.0.10" />
     </ItemGroup>
-  
+
     <ItemGroup>
         <EmbeddedResource Include="Resources/*" />
     </ItemGroup>
